@@ -38,9 +38,9 @@ The analysis covers the following main areas:
 
 Visualizations are an essential part of this analysis, showcasing:
 
-- Line charts depicting sales trends over time.
-- Bar plots displaying top-selling products and their quantities.
-- Distribution plots revealing product categories and sales distribution.
+- Scatter plots depicting Size over Category.
+- Bar plots displaying top performing states.
+- Histogram for size over count.
 
 ## Contributing
 
